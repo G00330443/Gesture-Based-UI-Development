@@ -3,7 +3,7 @@
 
 ### Team Members
 ##### James Ngondo
-##### Hary Wang
+##### Haoyu Wang
 ##### Julien Yaho
 
 ## Introduction
